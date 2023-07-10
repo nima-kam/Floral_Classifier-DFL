@@ -18,6 +18,7 @@ The Center Loss technique is used to generate a disentangled feature representat
 The disentangled feature representation is used to classify pairs of flowers as similar type or not.
 
 ## Center Loss
+link to complete implementation of center loss: https://github.com/KaiyangZhou/pytorch-center-loss
 The **Center Loss** technique is used to improve the performance of the model. This involves calculating the distance between the features and the class centers and computing the loss based on the distance and the ground truth labels.
 
 ## Code Overview
